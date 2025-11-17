@@ -1,3 +1,2 @@
-My name is Utkarsh Patel
-branch : CSE
-domain : App developer
+name utkarsh patel
+branch cse
