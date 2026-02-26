@@ -24,5 +24,5 @@ Follow these steps to get the project up and running locally:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
 
-   ##Name
-shruti
+   ## Name
+   Prakhar dixit    frontend         2431184
